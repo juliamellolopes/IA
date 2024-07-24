@@ -1,0 +1,34 @@
+{
+    "state1": [
+        {"A": "Dirty"},
+        {"B": "Dirty"}
+    ],
+    "state2": [
+        {"A": "Dirty"},
+        {"B": "Dirty"}
+    ],
+    "state3": [
+        {"A": "Dirty"},
+        {"B": "Clean"}
+    ],
+    "state4": [
+        {"A": "Dirty"},
+        {"B": "Clean"}
+    ],
+    "state5": [
+        {"A": "Clean"},
+        {"B": "Dirty"}
+    ],
+    "state6": [
+        {"A": "Clean"},
+        {"B": "Dirty"}
+    ],
+    "state7": [
+        {"A": "Clean"},
+        {"B": "Clean"}
+    ],
+    "state8": [
+        {"A": "Clean"},
+        {"B": "Clean"}
+    ]
+}
